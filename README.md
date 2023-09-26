@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dosha-xyl
+- 👋 Hi, I’m Leonardo
 - 👀 I’m interested in Game Developement
 - 🌱 I’m currently learning how to use Godot, Python, Lua... and game dev notions
 - 💞️ I’m looking to collaborate on game projects or commissions
